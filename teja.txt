@@ -1,0 +1,4 @@
+Hi Teja 
+How are you 
+Are you learning python 
+How about your DEVOPS course
